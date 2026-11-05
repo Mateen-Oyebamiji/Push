@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode per-user state and build output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Alphacorsa font: licensed for personal use on one computer only.
+# Not redistributable, so it is never committed. See README "Font setup".
+MyApp/Resources/Fonts/*.ttf
+MyApp/Resources/Fonts/*.otf
